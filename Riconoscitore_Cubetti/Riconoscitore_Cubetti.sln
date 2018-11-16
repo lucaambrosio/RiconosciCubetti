@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Riconoscitore_Cubetti", "Riconoscitore_Cubetti\Riconoscitore_Cubetti.vcxproj", "{D3FC3AD6-23C2-4736-8145-FE8A28D3A171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FC3AD6-23C2-4736-8145-FE8A28D3A171}.Debug|x64.ActiveCfg = Debug|x64
+		{D3FC3AD6-23C2-4736-8145-FE8A28D3A171}.Debug|x64.Build.0 = Debug|x64
+		{D3FC3AD6-23C2-4736-8145-FE8A28D3A171}.Release|x64.ActiveCfg = Release|x64
+		{D3FC3AD6-23C2-4736-8145-FE8A28D3A171}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0400882-5671-4218-8A6E-CE537F1E1A4C}
+	EndGlobalSection
+EndGlobal
